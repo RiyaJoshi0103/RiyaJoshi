@@ -1,6 +1,6 @@
 # 👩‍💻 Riya Joshi
 
-**Frontend Developer | Kickboxing Champion | CSE Undergrad**
+**Author | Athlete | Tech Enthusiast**
 
 > Crafting elegant and responsive web experiences with passion and precision.
 
@@ -8,51 +8,56 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Riya Joshi**, a passionate frontend developer from **India**, currently pursuing my **B.Tech in Computer Science & Engineering** at **Uttarakhand Technical University**.
+Hi! I'm **Riya Joshi**, a  tech enthusiast , currently pursuing my **B.Tech in Computer Science & Engineering** at **Bipin Tripathi Kumaon Institute of Technology**. I’m deeply passionate about building intuitive web apps, solving real-world problems through code, and learning the intersection of tech and innovation.
 
-I love building websites that are not just visually stunning but also fast, responsive, and user-friendly. When I’m not coding, you’ll find me training in **kickboxing**, competing nationally, or exploring new tech!
+Alongside my tech pursuits, I'm a **national-level athlete** in kickboxing and karate, a **published author**, and a **Certified Under Officer in NCC**.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Gold Medalist**, Khelo India Women's Kickboxing Championship 2023  
-- 🥈 **Silver Medalist**, National Kickboxing Championship 2023  
-- 🥇 **Gold Medalist**, All India Open Karate Championship (Kotaka Cup)  
-- 🏃‍♀️ State-level Sprinter  
-- 🎤 Active participant in inter-school singing competitions
+- ✍️ **Co-author** of *Sprinkle of Possibilities* – Published January 2025  
+  [Book Link](#) *(Insert actual link here)*  
+- 👩‍💻 **Google Girls Hackathon 2024** – Advanced to Second Round  
+- 🥈 **Qualified** for World Kickboxing Championship 2023 (Portugal) & National **Silver Medalist**  
+- 🥇 **Gold Medalist**, All India Open Karate 2022  
+- 🥇 Multiple-time **State Gold Medalist** in Karate & Kickboxing  
+- 🏅 **Under Officer**, NCC – Awarded **Best Cadet**, holder of **C Certificate**
 
----
+## 💻 Projects
 
-## 💻 Tech Stack
+### 🔐 Network Anomaly Detection System  
+[Live Demo](https://www.kaggle.com/code/joglows/network-anomaly-detection)
+**Machine Learning | Cybersecurity | Data Visualization**  
+- Built using **DBSCAN**, **KNN**, **Random Forest**, and **PCA**
+- Achieved **97.2% accuracy** using cross-validation on real traffic data  
+- Used Seaborn, Matplotlib for visualizations | Deployed on Kaggle
 
-- **Languages**: HTML, CSS, JavaScript, Python  
-- **Frameworks**: Django  
-- **Libraries**: React (learning), Bootstrap  
-- **Tools**: GitHub, VS Code, Figma  
-- **Cloud**: AWS EC2 (learning)
+### 🎥 Meetzy – Video Conferencing Platform  
+**MERN Stack | WebRTC | Real-Time Communication**  
+[Live Demo](https://meetzy-frontend11.onrender.com)  
+- Developed with **WebRTC**, **STUN/TURN servers**, **WebSockets**, and **MediaStream APIs**  
+- Features: Real-time chat, screen sharing, mute/unmute
 
----
+### 📈 Zerodha Clone – Stock Trading Interface  
+**MERN Stack**  
+[Live Demo](https://zerodha-frontend1.onrender.com)  
+- Real-time prices, trading dashboard with charts and secure login  
+- Used **Alpha Vantage API**, tested using **Thunder Client**
 
-## 💼 Projects
-
-- 🔮 **Loan Prediction System** – Built with Machine Learning  
-- 🛍️ **Amazon Clone** – Responsive frontend using HTML, CSS, JavaScript  
-- 📈 **Financial Dashboard** – Visualizes financial data interactively  
-- 🎥 **Movie Recommendation System** – Recommends films using ML techniques
+### 🌐 GitVerse – Version Control System  
+**MERN Stack | Docker | AWS EC2 | Kubernetes | CI/CD**  
+- Built Git-like version control system with clone/commit functionality  
+- Containerized with **Docker**, deployed via **Kubernetes** on **AWS EC2**  
+- Implemented **CI/CD** using **ArgoCD**
 
 ---
 
 ## 🌐 Connect with Me
 
-- 📧 Email: **riyajoshi442@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/riya-joshi](https://linkedin.com/in/riya-joshi)  
-- 🐦 Twitter: [@riya_joshi_dev](https://twitter.com/riya_joshi_dev) *(if applicable)*  
-- 🌍 Website: [yourwebsite.com](https://yourwebsite.com) *(update this)*
-
+- 📧 Email: **riyajoshi1325@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/riya-joshi](https://www.linkedin.com/in/riya-joshi-138148260/)    
+📘 Book: [Sprinkle of Possibilities](https://www.amazon.in/Sprinkle-Possibilities-Anthology-Stories-Students/dp/9363550613)
 ---
 
 > “Discipline in the ring, creativity on the screen.”
-
-# RiyaJoshi
-Hi ! 
