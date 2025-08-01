@@ -2,7 +2,8 @@
 
 **Author | Athlete | Tech Enthusiast**
 
-> Crafting elegant and responsive web experiences with passion and precision.
+📘 Book: [Sprinkle of Possibilities](https://www.amazon.in/Sprinkle-Possibilities-Anthology-Stories-Students/dp/9363550613)  
+🥋 National Kickboxing Silver Medalist • 🏅 Gold Medalist & Black Belt in Karate • 🇵🇹 Qualified for World Championship • 🎖️ Best Cadet (NCC Under Officer)
 
 ---
 
