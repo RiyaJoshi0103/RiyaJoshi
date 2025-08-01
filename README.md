@@ -13,17 +13,6 @@ Hi! I'm **Riya Joshi**, a  tech enthusiast , currently pursuing my **B.Tech in C
 Alongside my tech pursuits, I'm a **national-level athlete** in kickboxing and karate, a **published author**, and a **Certified Under Officer in NCC**.
 
 ---
-
-## 🏆 Achievements
-
-- ✍️ **Co-author** of *Sprinkle of Possibilities* – Published January 2025  
-  [Book Link](#) *(Insert actual link here)*  
-- 👩‍💻 **Google Girls Hackathon 2024** – Advanced to Second Round  
-- 🥈 **Qualified** for World Kickboxing Championship 2023 (Portugal) & National **Silver Medalist**  
-- 🥇 **Gold Medalist**, All India Open Karate 2022  
-- 🥇 Multiple-time **State Gold Medalist** in Karate & Kickboxing  
-- 🏅 **Under Officer**, NCC – Awarded **Best Cadet**, holder of **C Certificate**
-
 ## 💻 Projects
 
 ### 🔐 Network Anomaly Detection System  
